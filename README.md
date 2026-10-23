@@ -50,7 +50,7 @@ This project is for educational purposes only and serves as a practice implement
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-For questions or contributions, contact ashapitchika04@gmail.com
+For questions or contributions, contact pitchika200@gmail.com
 
 ---
 *Feel free to contribute to the project by enhancing existing features or adding new functionalities. Your feedback and improvements are highly appreciated!*
